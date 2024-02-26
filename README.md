@@ -11,6 +11,7 @@ The `scurve_motion` library is a C++ library designed for jogging applications w
 - Support for both forward and reverse jogging.
 - Linear acceleration stage between concave & convex curve depending on jerk value.
 - Gui project to preview curve outputs in a qt-realtime-plot.
+- During button press & release interupts, the curve will go to zero acceleration first. From there a new trajectory is calculated.
 
 ### Language
 
