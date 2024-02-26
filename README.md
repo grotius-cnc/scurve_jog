@@ -1,6 +1,6 @@
 ### scurve_motion Library
 
-[![Watch the video](]([https://github.com/grotius-cnc/scurve_jog/simplescreenrecorder-2024-02-26_10.40.29.mkv](https://github.com/grotius-cnc/scurve_jog/blob/main/simplescreenrecorder-2024-02-26_10.40.29.mkv)
+[![Watch the video](https://example.com/your_thumbnail_image.png)](https://github.com/grotius-cnc/scurve_jog/blob/main/simplescreenrecorder-2024-02-26_10.40.29.mkv)
 
 
 ### Overview
