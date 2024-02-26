@@ -1,10 +1,5 @@
 ### scurve_motion Library
 
-![S-curve Motion](scurve_jog/scurve_motion_plot/plot_0.jpg)
-![S-curve Motion](scurve_jog/scurve_motion_plot/plot_1.jpg)
-![S-curve Motion](scurve_jog/scurve_motion_plot/plot_2.jpg)
-![S-curve Motion](scurve_jog/scurve_motion_plot/plot_3.jpg)
-
 ### Overview
 
 The `scurve_motion` library is a C++ library designed for jogging applications with S-curve motion profiles. It enables smooth acceleration and deceleration for precise and controlled jogging motion.
@@ -64,3 +59,11 @@ mkdir build
 cd build
 cmake ..
 make
+```
+
+### Pictures "qt plot"
+
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_0.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_1.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_2.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_3.jpg)
