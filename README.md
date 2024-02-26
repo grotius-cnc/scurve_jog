@@ -1,8 +1,6 @@
 ### scurve_motion Library
-![S-curve Motion](simplescreenrecorder-2024-02-26_10.40.29.mkv)
 
-
-[![Watch the video](scurve_jog/scurve_motion_plot/plot_0.jpg)](https://github.com/grotius-cnc/scurve_jog/simplescreenrecorder-2024-02-26_10.40.29.mkv
+[![Watch the video](]([https://github.com/grotius-cnc/scurve_jog/simplescreenrecorder-2024-02-26_10.40.29.mkv](https://github.com/grotius-cnc/scurve_jog/blob/main/simplescreenrecorder-2024-02-26_10.40.29.mkv)
 
 
 ### Overview
