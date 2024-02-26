@@ -1,4 +1,5 @@
 ### scurve_motion Library
+![S-curve Motion](simplescreenrecorder-2024-02-26_10.40.29.mkv)
 
 ### Overview
 
@@ -68,3 +69,6 @@ make
 ![S-curve Motion](scurve_jog/scurve_motion_plot/plot_1.jpg)
 ![S-curve Motion](scurve_jog/scurve_motion_plot/plot_2.jpg)
 ![S-curve Motion](scurve_jog/scurve_motion_plot/plot_3.jpg)
+
+
+
