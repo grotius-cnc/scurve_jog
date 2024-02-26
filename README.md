@@ -19,8 +19,7 @@ The `scurve_motion` library is a C++ library designed for jogging applications w
 
 ### Language
 
-- ~/scurve_motion_c  C  
-- ~/scurve_motion    C++ 
+- Written for c & c++ projects.
 
 ### Example for c
 
