@@ -1,9 +1,9 @@
 ### scurve_motion Library
 
-![S-curve Motion](scurve_motion_plot/plot_0.jpg)
-![S-curve Motion](scurve_motion_plot/plot_1.jpg)
-![S-curve Motion](scurve_motion_plot/plot_2.jpg)
-![S-curve Motion](scurve_motion_plot/plot_3.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_0.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_1.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_2.jpg)
+![S-curve Motion](scurve_jog/scurve_motion_plot/plot_3.jpg)
 
 ### Overview
 
