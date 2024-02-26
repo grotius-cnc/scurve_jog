@@ -2,6 +2,8 @@
 
 The `scurve_motion` library is a C++ library designed for jogging applications with S-curve motion profiles. It enables smooth acceleration and deceleration for precise and controlled jogging motion.
 
+video : https://youtu.be/SX2baPCllSY
+
 ### Features
 
 - S-curve motion profiling for smooth jogging.
